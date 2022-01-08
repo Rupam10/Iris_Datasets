@@ -1,6 +1,6 @@
 # Iris_Datasets
 - In the following project, I applied three different machine learning algorithms to predict the different type of iris flower.
--  I chose KNeighbors Classifier, Decision Tree Classifier and Logistic Regression algorithms
+-  I chose KNeighbors Classifier, Decision Tree Classifier and Logistic Regression for this project.
 # Dataset
 - The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 - This is Kaggle Dataset.

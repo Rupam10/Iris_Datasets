@@ -1,4 +1,5 @@
 # Iris_Datasets
+- This is a small project to test custom algorithms on the dataset for Iris Datasets. In this repository you will find necessary information to get you going with the Logistic Regression, Decision Tree Classifier and KNeighbors Classifier algorithms.
 - In the following project, I applied three different machine learning algorithms to predict the different type of iris flower.
 -  I chose KNeighbors Classifier, Decision Tree Classifier and Logistic Regression for this project.
 # Dataset
